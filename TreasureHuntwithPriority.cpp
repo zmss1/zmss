@@ -8,7 +8,7 @@ using namespace std;
 
 // Function to display the heap
 void displayHeap(const vector<int>& heap) {
-    cout << "Current Treasure PrioritTreasure Hunt with Priority: A Heap Adventureies (Heap): ";
+    cout << "Current Treasure Hunt with Priority: A Heap Adventureies (Heap): ";
     for (int priority : heap) {
         cout << priority << " ";
     }
